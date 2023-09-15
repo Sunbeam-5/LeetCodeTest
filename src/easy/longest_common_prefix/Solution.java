@@ -1,4 +1,4 @@
-package longest_common_prefix;
+package easy.longest_common_prefix;
 
 class Solution {
     public String longestCommonPrefix(String[] strs) {

@@ -1,4 +1,4 @@
-package AddTwoNumbers;
+package easy.AddTwoNumbers;
 
 public class Main {
     public static void main(String[] args) {

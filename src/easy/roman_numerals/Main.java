@@ -1,4 +1,4 @@
-package roman_numerals;
+package easy.roman_numerals;
 
 import java.util.Scanner;
 

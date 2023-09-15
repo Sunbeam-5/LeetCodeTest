@@ -1,4 +1,4 @@
-package AddTwoNumbers;
+package easy.AddTwoNumbers;
 
 
 class Solution {

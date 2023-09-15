@@ -1,4 +1,4 @@
-package AddTwoNumbers;
+package easy.AddTwoNumbers;
 
 public class ListNode {
     int val;

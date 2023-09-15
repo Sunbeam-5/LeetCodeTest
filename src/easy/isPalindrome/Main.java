@@ -1,4 +1,4 @@
-package isPalindrome;
+package easy.isPalindrome;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package gem_supply;
+package easy.gem_supply;
 
 import java.util.Scanner;
 
